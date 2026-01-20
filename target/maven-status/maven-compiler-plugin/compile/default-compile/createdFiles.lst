@@ -1,0 +1,8 @@
+com\example\prototype\util\DeepCopyUtil.class
+com\example\prototype\entity\ERPProduct.class
+com\example\prototype\entity\InventoryItem.class
+com\example\prototype\entity\Supplier.class
+com\example\prototype\pattern\PrototypeRegistry.class
+com\example\prototype\pattern\Prototype.class
+com\example\prototype\pattern\ERPProductPrototype.class
+com\example\prototype\entity\ProductCategory.class
